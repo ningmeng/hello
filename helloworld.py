@@ -6,3 +6,6 @@ name=raw_input('please input your name:')
 
 #say hello
 print 'hello wrold!\n'
+
+#say some thing
+print 'have you something to do!'
