@@ -9,3 +9,5 @@ print 'hello wrold!\n'
 
 #say some thing
 print 'have you something to do!'
+
+print 'nignmeng'
